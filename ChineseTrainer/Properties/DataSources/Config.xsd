@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Config" targetNamespace="http://tempuri.org/Config.xsd" xmlns:mstns="http://tempuri.org/Config.xsd" xmlns="http://tempuri.org/Config.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Config" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Config" msprop:Generator_UserDSName="Config" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Config" msprop:Generator_UserTableName="Config" msprop:Generator_RowDeletedName="ConfigRowDeleted" msprop:Generator_TableClassName="ConfigDataTable" msprop:Generator_RowChangedName="ConfigRowChanged" msprop:Generator_RowClassName="ConfigRow" msprop:Generator_RowChangingName="ConfigRowChanging" msprop:Generator_RowEvArgName="ConfigRowChangeEvent" msprop:Generator_RowEvHandlerName="ConfigRowChangeEventHandler" msprop:Generator_TablePropName="_Config" msprop:Generator_TableVarName="tableConfig" msprop:Generator_RowDeletingName="ConfigRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ChapterSelection" msprop:Generator_UserColumnName="ChapterSelection" msprop:Generator_ColumnPropNameInRow="ChapterSelection" msprop:Generator_ColumnVarNameInTable="columnChapterSelection" msprop:Generator_ColumnPropNameInTable="ChapterSelectionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Chapter" msprop:Generator_UserColumnName="Chapter" msprop:Generator_ColumnPropNameInRow="Chapter" msprop:Generator_ColumnVarNameInTable="columnChapter" msprop:Generator_ColumnPropNameInTable="ChapterColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Sequence" msprop:Generator_UserColumnName="Sequence" msprop:Generator_ColumnPropNameInRow="Sequence" msprop:Generator_ColumnVarNameInTable="columnSequence" msprop:Generator_ColumnPropNameInTable="SequenceColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ShowHideTime" msprop:Generator_UserColumnName="ShowHideTime" msprop:Generator_ColumnPropNameInRow="ShowHideTime" msprop:Generator_ColumnVarNameInTable="columnShowHideTime" msprop:Generator_ColumnPropNameInTable="ShowHideTimeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="FadeTime" msprop:Generator_UserColumnName="FadeTime" msprop:Generator_ColumnPropNameInRow="FadeTime" msprop:Generator_ColumnVarNameInTable="columnFadeTime" msprop:Generator_ColumnPropNameInTable="FadeTimeColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

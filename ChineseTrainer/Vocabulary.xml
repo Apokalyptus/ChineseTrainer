@@ -1,0 +1,66 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Vokabeln>
+    <Chinesisch>左边 </Chinesisch>
+    <Pinyin>zuǒbiān</Pinyin>
+    <German>links</German>
+    <Chapter>2</Chapter>
+    <Vokabeln_pk>0</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>右边</Chinesisch>
+    <Pinyin>yòubiān</Pinyin>
+    <German>rechts</German>
+    <Chapter>2</Chapter>
+    <Vokabeln_pk>2</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>送</Chinesisch>
+    <Pinyin>sòng</Pinyin>
+    <German>bringen, senden</German>
+    <Chapter>1</Chapter>
+    <Vokabeln_pk>3</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>叉子</Chinesisch>
+    <Pinyin>chāzi</Pinyin>
+    <German>Gabel</German>
+    <Chapter>2</Chapter>
+    <Vokabeln_pk>4</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>勺子</Chinesisch>
+    <Pinyin>sháozi</Pinyin>
+    <German>Löffel</German>
+    <Chapter>2</Chapter>
+    <Vokabeln_pk>5</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>刀子</Chinesisch>
+    <Pinyin>dāozi</Pinyin>
+    <German>Messer</German>
+    <Chapter>2</Chapter>
+    <Vokabeln_pk>7</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>兩节棍</Chinesisch>
+    <Pinyin>shuāng jié gùn</Pinyin>
+    <German>Nunchaku</German>
+    <Chapter>3</Chapter>
+    <Vokabeln_pk>8</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>送到</Chinesisch>
+    <Pinyin>sòngdào</Pinyin>
+    <German>liefern</German>
+    <Chapter>2</Chapter>
+    <Vokabeln_pk>9</Vokabeln_pk>
+  </Vokabeln>
+  <Vokabeln>
+    <Chinesisch>谁</Chinesisch>
+    <Pinyin>shéi</Pinyin>
+    <German>wer</German>
+    <Chapter>1</Chapter>
+    <Vokabeln_pk>10</Vokabeln_pk>
+  </Vokabeln>
+</DataSet1>

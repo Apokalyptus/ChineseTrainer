@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<Config xmlns="http://tempuri.org/Config.xsd">
+  <Config>
+    <ChapterSelection>CHAPTER</ChapterSelection>
+    <Chapter>2</Chapter>
+    <Sequence>RANDOM</Sequence>
+    <ShowHideTime>3000</ShowHideTime>
+    <FadeTime>100</FadeTime>
+  </Config>
+</Config>

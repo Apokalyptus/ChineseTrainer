@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Vokabeln" msprop:Generator_UserTableName="Vokabeln" msprop:Generator_RowDeletedName="VokabelnRowDeleted" msprop:Generator_TableClassName="VokabelnDataTable" msprop:Generator_RowChangedName="VokabelnRowChanged" msprop:Generator_RowClassName="VokabelnRow" msprop:Generator_RowChangingName="VokabelnRowChanging" msprop:Generator_RowEvArgName="VokabelnRowChangeEvent" msprop:Generator_RowEvHandlerName="VokabelnRowChangeEventHandler" msprop:Generator_TablePropName="Vokabeln" msprop:Generator_TableVarName="tableVokabeln" msprop:Generator_RowDeletingName="VokabelnRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Chinesisch" msprop:Generator_UserColumnName="Chinesisch" msprop:Generator_ColumnPropNameInRow="Chinesisch" msprop:Generator_ColumnVarNameInTable="columnChinesisch" msprop:Generator_ColumnPropNameInTable="ChinesischColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Pinyin" msprop:Generator_UserColumnName="Pinyin" msprop:Generator_ColumnPropNameInRow="Pinyin" msprop:Generator_ColumnVarNameInTable="columnPinyin" msprop:Generator_ColumnPropNameInTable="PinyinColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="German" msprop:Generator_UserColumnName="German" msprop:Generator_ColumnPropNameInRow="German" msprop:Generator_ColumnVarNameInTable="columnGerman" msprop:Generator_ColumnPropNameInTable="GermanColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Chapter" msprop:Generator_UserColumnName="Chapter" msprop:Generator_ColumnPropNameInRow="Chapter" msprop:Generator_ColumnVarNameInTable="columnChapter" msprop:Generator_ColumnPropNameInTable="ChapterColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Date" msprop:Generator_UserColumnName="Date" msprop:Generator_ColumnPropNameInRow="Date" msprop:Generator_ColumnVarNameInTable="columnDate" msprop:Generator_ColumnPropNameInTable="DateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Vokabeln_pk" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="Vokabeln_pk" msprop:Generator_ColumnPropNameInRow="Vokabeln_pk" msprop:Generator_ColumnVarNameInTable="columnVokabeln_pk" msprop:Generator_ColumnPropNameInTable="Vokabeln_pkColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

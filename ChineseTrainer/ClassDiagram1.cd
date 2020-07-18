@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ChineseTrainer.Program" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChineseTrainer.Form2" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form2.cs</FileName>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAg4AAAAAEACAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChineseTrainer.ChineseTrainer" Collapsed="true">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAQQAgUIAKIBAAAIRoCAIAgyAgIAIAAAABDAChBAAIg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
